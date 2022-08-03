@@ -45,7 +45,6 @@ while(difficulty == 1 and play_again == 1):
     NumbersGuessed = []
     secret_number = 0
     secret_number = dice(1, 9) 
-    print(secret_number)
     wrong_guesses = 0
     guesses_left = 5
     guess_number = 0
