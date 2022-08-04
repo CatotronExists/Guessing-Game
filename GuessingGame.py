@@ -542,7 +542,7 @@ while game_play == True:
         print("-----------------------------------------------")
         print("Guess the number          Current Version: v1.3")
         print("")
-        print("Version 1.3 (3/08/2022)")
+        print("Version 1.3 | Difficulty Update (5/08/2022)")
         print("- New Difficulty option, Choose between Easy, Medium,\nHard and Impossible.\nAdded Option to use letters/word to choose a difficulty.\nMedium and above have togglable hints (Higher/Lower).\nOptimised code by making it longer :)\nChange log can now be closed.")
         print("")
         print("Version 1.2.1")
