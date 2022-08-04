@@ -407,7 +407,7 @@ while game_play == True:
     while(difficulty == 5): # Change Log
         change_log_page = 1
         print("-----------------------------------------------")
-        print("Guess the number          Current Version: v1.3-b1")
+        print("Guess the number       Current Version: v1.3-b1")
         print("")
         print("Version 1.3-b1 (3/08/2022)")
         print("- New Difficulty option, Choose between Easy, Medium,\nHard and Impossible.\nAdded Option to use letters/word to choose a difficulty.\nMedium and above have togglable hints (Higher/Lower).\nOptimised code by making it longer :)\nChange log can now be closed.")
